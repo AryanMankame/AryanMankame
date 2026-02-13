@@ -153,28 +153,12 @@ Key Achievements:
 - 📊 SIPakMed dataset with advanced feature extraction
 - 🎯 Outperformed previous CNN benchmarks by 5%+
 
----
 
+
+---
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanMankame&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanMankame&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan672002&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan672002&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanMankame)](https://git.io/streak-stats)
 
 ---
 
