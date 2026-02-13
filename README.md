@@ -179,7 +179,7 @@ achievements = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/aryan672002/aryan672002/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanMankame&theme=tokyonight)
 
 </div>
 
