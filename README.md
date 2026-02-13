@@ -2,7 +2,7 @@
 
 # 👨‍💻 Aryan Mankame
 
-### Senior Analyst @ Deutsche Bank | Full-Stack Developer | Open Source Enthusiast
+### SDE @ Deutsche Bank | Full-Stack Developer | Open Source Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-mankame-612a73202/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AryanMankame)
